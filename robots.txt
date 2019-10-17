@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://amaexeevo.ihtc.cc/sitemap.xml
